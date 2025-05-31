@@ -132,13 +132,3 @@ Open VSCode, then open settings JSON (`Ctrl+Shift+P` → **Preferences: Open Set
   "editor.minimap.enabled": false
 }
 ```
-
----
-
-You're now fully set up with:
-
-* ✅ VSCode installed
-* ⌨️ Quick launch via `Mod+C` in i3wm
-* 🔌 Best extensions installed in one go
-
-Let me know if you also want to sync VSCode settings across devices or connect GitHub!
