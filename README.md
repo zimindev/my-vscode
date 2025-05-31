@@ -1,5 +1,3 @@
-Absolutely! Here's a **complete all-in-one guide** to:
-
 ✅ Install **VSCode** on **Arch Linux**
 🔧 Set up the `Mod+C` shortcut in **i3wm**
 🔌 Install essential **VSCode extensions** quickly
